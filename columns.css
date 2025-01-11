@@ -31,7 +31,7 @@ aside {
   max-width: fit-content;
 }
 
-@media (max-width: 769px) {
+@media (max-width: 569px) {
   .Columns {
     background-color: orange;
     display: flex;
